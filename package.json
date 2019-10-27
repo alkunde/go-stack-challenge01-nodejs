@@ -1,0 +1,17 @@
+{
+  "name": "challenge-01-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alkunde/go-stack-challenge01-nodejs.git",
+  "author": "André Kunde <andrelbkunde@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
